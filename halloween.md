@@ -1,5 +1,3 @@
-# halloween
-
 # Un Micro:bit d'Halloween! 
 
  
