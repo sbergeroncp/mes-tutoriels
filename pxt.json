@@ -1,5 +1,5 @@
 {
-    "name": "halloween",
+    "name": "lancer_de",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "halloween.md"
+        "halloween.md",
+        "lancer_de.md"
     ],
     "testFiles": [
         "test.ts"
